@@ -1,5 +1,5 @@
 # Dank Meme Rating
-This repository contains the codes for the **Neural Network** model for upvote/like prediction of memes using **transfer learning**.\
+This repository contains the codes for the **Neural Network** model for upvote/like prediction of memes using **transfer learning**.
 Link to the project [report](https://meghbhalerao.github.io/pdfs/Megh-Bhalerao-Dank-Meme-Rating-Report.pdf). 
 
 ## Brief Description of the project
